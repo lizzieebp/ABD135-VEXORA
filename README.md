@@ -60,9 +60,7 @@ VEXORA contempla el desarrollo de funcionalidades orientadas a la gestión de un
 - Control de versiones y seguimiento de los cambios.
 - Desarrollo colaborativo mediante ramas independientes.
 - Integración y verificación de los componentes desarrollados por el equipo.
-
-*Las funcionalidades específicas se documentarán conforme se implementen y verifiquen.*
-
+  
 ---
 
 ## Desarrollo del proyecto
@@ -117,13 +115,10 @@ Como referencia, el proyecto contempla la organización de los siguientes recurs
 ```bash
 git clone URL-DEL-REPOSITORIO
 ```
-
-Reemplazar `URL-DEL-REPOSITORIO` por la dirección real del repositorio de VEXORA en GitHub.
-
 ### 2. Ingresar al directorio
 
 ```bash
-cd NOMBRE-DEL-REPOSITORIO
+cd ABD135-VEXORA
 ```
 
 ### 3. Preparar el entorno
