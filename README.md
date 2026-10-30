@@ -113,7 +113,7 @@ Como referencia, el proyecto contempla la organización de los siguientes recurs
 ### 1. Clonar el repositorio
 
 ```bash
-git clone URL-DEL-REPOSITORIO
+git clone https://github.com/lizzieebp/ABD135-VEXORA.git
 ```
 ### 2. Ingresar al directorio
 
